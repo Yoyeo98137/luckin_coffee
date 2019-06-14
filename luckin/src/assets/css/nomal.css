@@ -1,0 +1,22 @@
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, form, button, input, textarea, th, td {
+  margin: 0;
+  padding: 0; }
+
+a {
+  text-decoration: none; }
+
+a:hover, a:visited, a:link, a:active {
+  color: #000; }
+
+img {
+  vertical-align: middle; }
+
+li {
+  list-style: none; }
+
+button {
+  cursor: pointer; }
+
+body, html {
+  height: 100%;
+  font-size: 13px; }
