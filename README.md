@@ -1,7 +1,7 @@
 # luckin_coffee
 仿瑞幸咖啡官网 Vue开发
 ## 技术栈
-Vue.js(vue-router、axios) + Scss + CSS Sprite + Node.js + MySQL + H5的video标签<br>
+Vue.js(脚手架、vue-router、axios) + Scss + CSS Sprite + Node.js + MySQL + H5的video标签<br>
 Node.js > 8<br>
 Vue 3.7.0
 ## 运行项目
