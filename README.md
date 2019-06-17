@@ -23,6 +23,10 @@ Vue 3.7.0
 √ 服务器cors解决跨域<br>
 × 首页的一些动画效果如图片淡入淡出<br>
 × 数据库搭建
+## 页面预览图片
+![image](https://github.com/Yoyeo98137/luckin_coffee/blob/master/img/01.png)
+![image](https://github.com/Yoyeo98137/luckin_coffee/blob/master/img/02.png)
+![image](https://github.com/Yoyeo98137/luckin_coffee/blob/master/img/03.png)
 ## 制作目的
 增加Vue的实践开发经验<br>
 进一步熟悉组件化开发的流程和应用
